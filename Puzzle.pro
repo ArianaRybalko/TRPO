@@ -23,4 +23,4 @@ RESOURCES += \
             sprite.qrc
 
 SUBDIRS += \
-           Game_test.pro
+           Game_test.pro 
